@@ -116,6 +116,7 @@ dependencies {
     implementation project(':net:sync:gpoddernet')
     implementation project(':net:sync:model')
     implementation project(':parser:feed')
+    implementation project(':parser:encrypter')
     implementation project(':playback:base')
     implementation project(':playback:cast')
     implementation project(':ui:app-start-intent')
